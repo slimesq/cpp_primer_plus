@@ -1,4 +1,5 @@
-﻿#include <iostream>								// a PREPROCESSOR directive
+﻿// myfirst.cpp -- displays a message
+#include <iostream>								// a PREPROCESSOR directive
 int main()										// functin header
 {												// start of function body
 	using namespace std;						//	make definitions visible
